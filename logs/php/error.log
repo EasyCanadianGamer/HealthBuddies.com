@@ -1,0 +1,2 @@
+[17-Feb-2024 17:52:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Feb-2024 18:59:05 UTC] PHP Warning:  Array to string conversion in /Users/CanadianGamer/Programming/app/public/wp-includes/formatting.php on line 1108
