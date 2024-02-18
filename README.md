@@ -26,7 +26,7 @@ Through the development of HealthBuddies, we learned about the importance of eff
 
 
 ## What's next for HealthBuddies? 
-n the future, we plan to expand HealthBuddies to more healthcare institutions, reaching a larger audience of students and patients. We aim to enhance the platform's features, including online resources, mentorship programs, and virtual support groups on our website as well as further applications in addition to our current mental healthh test/resources, to provide an even more comprehensive and impactful experience.
+In the future, we plan to expand HealthBuddies to more healthcare institutions, reaching a larger audience of students and patients. We aim to enhance the platform's features, including online resources, mentorship programs, and virtual support groups on our website as well as further applications in addition to our current mental healthh test/resources, to provide an even more comprehensive and impactful experience.
 
 
 
